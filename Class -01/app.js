@@ -4,7 +4,7 @@
 // "" ''
 
 // number
-// 23 0.4
+// 804 0.5
 
 
 // built-in function
@@ -16,8 +16,16 @@
 // variables
 // let const
 
-// let lastName;
-// lastName= "Ahmed";
+// let firstNatName = "Hassan";
+
+
+// console.log(firstNatName);
+
+let lastName;
+lastName  = "Hannan";
+ console.log(lastName);
+
+ 
 
 
 // Arthmatic operators
