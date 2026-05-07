@@ -38,3 +38,25 @@
     
 // });
 
+// console.log("Start");
+
+// setTimeout(() => {
+//   console.log("Timeout");
+// }, 0);
+
+// Promise.resolve().then(() => {
+//   console.log("Promise");
+// });
+
+// console.log("End");
+
+// function one() {
+//   console.log("One");
+// }
+
+// function two() {
+//   one();
+//   console.log("Two");
+// }
+
+// two();
